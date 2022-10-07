@@ -8,8 +8,8 @@ console.log(q.host);
 console.log(q.pathname);
 console.log(q.search);
 
-let qdata = q.query;
+let q_data = q.query;
 
-console.log(qdata.year);
+console.log(q_data.year);
 
-console.log(qdata.month);
+console.log(q_data.month);
